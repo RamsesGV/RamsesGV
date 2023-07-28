@@ -18,8 +18,7 @@
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=dark)
 
-### 😂 Random Dev Meme
-<img src="https://rm.up.railway.app/" width="512px"/>
+
 
 ---
 [![](https://visitcount.itsvg.in/api?id=RamsesGV&icon=2&color=12)](https://visitcount.itsvg.in)
